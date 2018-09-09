@@ -86,13 +86,13 @@ class SmartComponent extends React.Component {
      );
    }
 }
-SmartComponent .propTypes = {
+SmartComponent.propTypes = {
   name: PropTypes.string,
 };
-SmartComponent .getDefaultProps = {
+SmartComponent.getDefaultProps = {
   name: 'React-CLI'
 };
-export default DumbComponent;
+export default SmartComponent;
 ```
 
 ### @withvoid/react-cli generate dc
