@@ -133,3 +133,7 @@ This will init a react-router with 3 sample routes in your application
 - Get feedback from community via twitter
 - Make vlogs on youtube 
 - Implement in our own projects 'dog fooding` If it's good for us then make it public for others.
+
+## Things I'd prefer to do,
+
+I don't want to provide boiler plate templates for adding style guides, linting rules, jest/enzyme/react-testing-library configurations. But rather write illustrative detail guides in this project in the form of documentation teaching developers on how to add into their projects themselves. So this project not only **scaffolds** the boilerplate but also becomes a hub for developers to get detailed instructions on integrating libraries. As I said we will follow *build on top of things* strategy for this project.
