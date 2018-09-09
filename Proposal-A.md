@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> This is the simple introduction how **React-GUI** will help the community in bulding robust webapps in less time.
+> This is the simple introduction how **React-GUI** will help the community in building robust webapps in less time.
 
 ### Scope
 
