@@ -126,3 +126,10 @@ This will init a react-router with 3 sample routes in your application
 **Note:** *If your code is in src/ folder, this command will assume that there is a App.js file inside that src folder and add those 3 routes in your application*
 
 >Again the purpose of this CLI is to make your code as easy as possible.
+
+## Strategy [Marketing]:
+
+- Initially write content through publications on Medium
+- Get feedback from community via twitter
+- Make vlogs on youtube 
+- Implement in our own projects 'dog fooding` If it's good for us then make it public for others.
